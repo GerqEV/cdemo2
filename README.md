@@ -58,7 +58,6 @@ cd core
 php composer.phar install --prefer-dist
 ```
 
-
 [1]: https://contao.org
 [2]: https://docs.contao.org/books/manual/current/en/01-installation/installing-contao.html
 [3]: https://docs.contao.org/books/manual/current/
