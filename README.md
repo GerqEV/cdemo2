@@ -67,3 +67,5 @@ php composer.phar install --prefer-dist
 [7]: system/docs
 [8]: https://contao.org/support.html
 [9]: https://getcomposer.org
+
+UPDATED
